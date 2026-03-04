@@ -1,0 +1,25 @@
+{
+  "name": "prak-routing-tp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erenorren/prak-routing-tp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/erenorren/prak-routing-tp/issues"
+  },
+  "homepage": "https://github.com/erenorren/prak-routing-tp#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
